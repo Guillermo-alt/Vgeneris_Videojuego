@@ -6,6 +6,7 @@
 if(!instance_exists(obj_conversacion1) && global.clases_termin==false && global.nivel==1 && global.mochila==false && globo==false){
 instance_create_depth(x,y-90,0,obj_conversacion1);
 globo=true;
+obj_mochila.image_speed=1;
  
 }
 

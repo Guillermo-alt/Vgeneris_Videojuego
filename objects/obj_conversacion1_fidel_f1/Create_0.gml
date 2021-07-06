@@ -8,6 +8,7 @@ text[1]="La clase va a comenzar.";
 
 
 
+
 /*
 caja_ancho=sprite_get_width(spr_text);
 stringAltura=string_height(text[it]);

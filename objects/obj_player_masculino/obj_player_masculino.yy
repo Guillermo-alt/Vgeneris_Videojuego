@@ -39,6 +39,8 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_npc_katya","path":"objects/obj_npc_katya/obj_npc_katya.yy",},"parent":{"name":"obj_player_masculino","path":"objects/obj_player_masculino/obj_player_masculino.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_npc_lupe","path":"objects/obj_npc_lupe/obj_npc_lupe.yy",},"parent":{"name":"obj_player_masculino","path":"objects/obj_player_masculino/obj_player_masculino.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_npc_josep","path":"objects/obj_npc_josep/obj_npc_josep.yy",},"parent":{"name":"obj_player_masculino","path":"objects/obj_player_masculino/obj_player_masculino.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_puerta_class","path":"objects/obj_puerta_class/obj_puerta_class.yy",},"parent":{"name":"obj_player_masculino","path":"objects/obj_player_masculino/obj_player_masculino.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_player_masculino","path":"objects/obj_player_masculino/obj_player_masculino.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

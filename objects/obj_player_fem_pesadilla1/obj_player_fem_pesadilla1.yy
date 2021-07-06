@@ -37,8 +37,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_npc",
-    "path": "folders/Objetos/obj_npc.yy",
+    "name": "objjetos_pesadilla",
+    "path": "folders/Objetos/objjetos_pesadilla.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_player_fem_pesadilla1",

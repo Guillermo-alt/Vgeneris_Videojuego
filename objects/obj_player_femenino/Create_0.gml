@@ -4,9 +4,8 @@ x=global.PX;
 y=global.PY;
 global.room_actual=room;
 
-it_p=0;//bandera para puertas
-globo=false; //gllobo dialogo
-
+it_p=0;//bandera para puertas  
+globo=false; //globo dialogo
 enum state{
 stand,
 walk,

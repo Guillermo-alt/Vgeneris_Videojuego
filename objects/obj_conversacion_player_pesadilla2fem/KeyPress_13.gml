@@ -6,6 +6,7 @@ if(it<5){
 }else{
 	
 instance_destroy() 
-instance_create_layer(500,100,"objetos1",obj_ene_mons)
+//avanza escenario y comienza enemigo
+global.avanza= true;
 }
  

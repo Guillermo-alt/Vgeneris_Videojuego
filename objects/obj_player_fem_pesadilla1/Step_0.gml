@@ -34,7 +34,7 @@ if(!keyboard_key){
 
 var der= keyboard_check(ord("D"));
 var izq= keyboard_check(ord("A"));
-var sal= keyboard_check_pressed(ord("W"));
+var sal= keyboard_check_pressed(vk_space);
 var shoot= keyboard_check_pressed(vk_numpad1);
 var shoot2= keyboard_check_pressed(vk_numpad2);
 

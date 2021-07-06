@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_collision1","path":"sprites/spr_collision1/spr_collision1.yy",},
     "resourceVersion": "1.3",
-    "name": "",
+    "name": "spr_collision1",
     "tags": [],
     "resourceType": "GMSequence",
   },

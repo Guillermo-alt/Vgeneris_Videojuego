@@ -9,8 +9,8 @@ global.PY=320;
 global.nivel=1;
 
 
-global.mochila=false;
-global.clases_termin=false;
+global.mochila=0;
+global.clases_termin=0;
 
 global.Edad="";
 global.Genero="";

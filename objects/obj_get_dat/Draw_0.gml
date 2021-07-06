@@ -1,5 +1,5 @@
   /// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
+// obtiene datos y los dibuja dentro del status - pausa
 draw_set_color(c_black);
 
 draw_text(340,155,global.Nombre);

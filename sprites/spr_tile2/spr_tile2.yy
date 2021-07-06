@@ -8,7 +8,7 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 751,
+  "bbox_right": 798,
   "bbox_top": 0,
   "bbox_bottom": 1099,
   "HTile": false,
@@ -105,6 +105,8 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"92637669-64ca-453d-acac-7b84b3b9ee73","path":"sprites/spr_tile2/spr_tile2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"92637669-64ca-453d-acac-7b84b3b9ee73","path":"sprites/spr_tile2/spr_tile2.yy",},"LayerId":{"name":"8fe44c53-3d06-4756-aa2d-2c9cd59e1a73","path":"sprites/spr_tile2/spr_tile2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"92637669-64ca-453d-acac-7b84b3b9ee73","path":"sprites/spr_tile2/spr_tile2.yy",},"LayerId":{"name":"8fe44c53-3d06-4756-aa2d-2c9cd59e1a73","path":"sprites/spr_tile2/spr_tile2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"92637669-64ca-453d-acac-7b84b3b9ee73","path":"sprites/spr_tile2/spr_tile2.yy",},"LayerId":{"name":"8fe44c53-3d06-4756-aa2d-2c9cd59e1a73","path":"sprites/spr_tile2/spr_tile2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_tile2","path":"sprites/spr_tile2/spr_tile2.yy",},"resourceVersion":"1.0","name":"92637669-64ca-453d-acac-7b84b3b9ee73","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -123,7 +125,7 @@
             {"id":"755e99b5-24ac-4272-bc99-2b98bf8a6798","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"92637669-64ca-453d-acac-7b84b3b9ee73","path":"sprites/spr_tile2/spr_tile2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
-    "visibleRange": {"x":0.0,"y":0.0,},
+    "visibleRange": null,
     "lockOrigin": false,
     "showBackdrop": true,
     "showBackdropImage": false,
@@ -139,7 +141,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_tile2","path":"sprites/spr_tile2/spr_tile2.yy",},
     "resourceVersion": "1.3",
-    "name": "",
+    "name": "spr_tile2",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -147,8 +149,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8fe44c53-3d06-4756-aa2d-2c9cd59e1a73","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "spr_tileset",
+    "path": "folders/Sprites/spr_tileset.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_tile2",

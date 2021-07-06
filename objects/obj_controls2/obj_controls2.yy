@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_botones",
-    "path": "folders/Objetos/obj_botones.yy",
+    "name": "objjetos_pesadilla",
+    "path": "folders/Objetos/objjetos_pesadilla.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_controls2",

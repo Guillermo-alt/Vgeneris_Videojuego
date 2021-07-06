@@ -20,6 +20,9 @@ global.Genero=ini_read_string ("dato5","Genero",global.Genero);//******Cambiar t
 global.Rol=ini_read_string ("dato6","Rol",global.Rol);
 global.objeto_player=ini_read_string ("dato7","player_gen",global.objeto_player);
 global.room_actual=ini_read_real ("dato8","room_a_guardar",global.room_actual);
+global.clases_termin =ini_read_string("dato9","clases_term",global.clases_termin);
+global.puede_dormir =ini_read_string("dato10","puede_dormir",global.puede_dormir);
+global.nivel =ini_read_string("dato11","nivel",global.nivel);
 
 
 ini_close();

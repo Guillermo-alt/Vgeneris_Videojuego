@@ -21,15 +21,15 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_ene_mons","path":"objects/obj_ene_mons/obj_ene_mons.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_ene_mons","path":"objects/obj_ene_mons/obj_ene_mons.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_ene_mons","path":"objects/obj_ene_mons/obj_ene_mons.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_ene_mons","path":"objects/obj_ene_mons/obj_ene_mons.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_npc",
-    "path": "folders/Objetos/obj_npc.yy",
+    "name": "objjetos_pesadilla",
+    "path": "folders/Objetos/objjetos_pesadilla.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_ene_mons",

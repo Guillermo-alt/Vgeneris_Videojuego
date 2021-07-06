@@ -1,8 +1,5 @@
-  /// @description Inserte aquí la descripción
+/// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-//cambiar-- es variable para cada g[enero
-
-
 if(!instance_exists(obj_conversacion2_fidel_f)&& global.clases_termin==true && globo==false){
 instance_create_depth(x,y-90,0,obj_conversacion2_fidel_f);
 globo=true;
